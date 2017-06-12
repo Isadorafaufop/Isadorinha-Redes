@@ -1,0 +1,22 @@
+#include <iostream>
+#include "CamadaFisica.h"
+#include <string.h>
+//#include <rand.h>
+
+using  namespace std;
+string geradorBits(){
+//pegar com o bernardo 
+}
+
+string codificador(string nome){
+  nome=nomeNovo;
+  return nome;
+}
+
+int main(){
+  string palavra;
+  
+  palavra=geradorBits();
+  //usar o socket para enviar a palavra;
+
+}
